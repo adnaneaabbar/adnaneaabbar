@@ -1,12 +1,12 @@
 Hi 👋 My name is Adnane Aabbar
 ==============================
 
-R&D Software Engineer
+Data Scientist & Software Engineer
 ---------------------
 
 Software Engineer & Data Scientist curious about Machine Learning and Artificial Intelligence. Passionate about Problem Solving, Data Structures and Algorithms. Thirsty for knowledge and collecting insights about every discipline I come across.
 
-* 🌍  I'm based in Rabat, Morocco
+* 🌍  I'm based in Paris, France
 * ✉️  You can contact me at [adnaneaabbar@gmail.com](mailto:adnaneaabbar@gmail.com)
 * 🧠  I'm learning more about Data Engineering and stepping up my competitive programming skills.
 * 🤝  I'm open to collaborating on Data Science or Web Development related projects.
